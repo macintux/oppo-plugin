@@ -1,6 +1,6 @@
 {
-	"id": "nodebb-plugin-quickstart",
-	"url": "https://github.com/NodeBB/nodebb-plugin-quickstart",
+	"id": "nodebb-plugin-oppo",
+	"url": "https://github.com/NodeBB/nodebb-plugin-open-scheduling",
 	"library": "./library.js",
 	"hooks": [
 		{

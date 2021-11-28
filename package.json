@@ -1,11 +1,11 @@
 {
-  "name": "nodebb-plugin-quickstart",
-  "version": "0.4.2",
-  "description": "A starter kit for quickly creating NodeBB plugins",
+  "name": "nodebb-plugin-open-scheduling",
+  "version": "0.0.1",
+  "description": "A NodeBB plugin to make scheduled posts more scalable",
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-plugin-quickstart"
+    "url": "https://github.com/psychobunny/nodebb-plugin-open-scheduling"
   },
   "keywords": [
     "nodebb",
@@ -31,7 +31,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-plugin-quickstart/issues"
+    "url": "https://github.com/macintus/oppo-plugin/issues"
   },
   "readmeFilename": "README.md",
   "nbbpm": {
